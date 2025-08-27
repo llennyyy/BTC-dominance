@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+  btc-dominance-bot:
+    build: .
+    container_name: btc-dominance-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - bot_data:/app/data
+
+volumes:
+  bot_data:
+    driver: local
+
+

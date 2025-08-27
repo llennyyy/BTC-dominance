@@ -1,0 +1,8 @@
+2025-08-27 22:00:11,818 INFO starting bot state=BotState(last_zone=None, last_value=56.168549796122136) subscribers=1
+2025-08-27 22:00:15,783 INFO neutral notice to 176054226 value=56.21
+2025-08-27 22:00:15,786 INFO checked value 56.21 for 1 subscribers
+2025-08-27 22:00:24,591 INFO /help replied to 176054226
+2025-08-27 22:00:37,542 INFO /value replied to 176054226
+2025-08-27 22:01:03,979 INFO saved thresholds for 176054226 -> upper=59.0 lower=50.1
+2025-08-27 22:01:10,194 INFO /settings replied to 176054226
+2025-08-27 22:02:49,333 INFO shutting down
